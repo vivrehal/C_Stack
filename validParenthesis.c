@@ -4,6 +4,7 @@
 #include <string.h>
 
 struct Stack{
+    
     char *data;
     int top;
     int size;
